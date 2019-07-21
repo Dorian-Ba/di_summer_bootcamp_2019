@@ -5,7 +5,6 @@ quiz.load_json_to_python()
 scoring.load_json_to_python()
 
 while True:
-    all_users_scores =[]
     print("""
             ----------------------------------------------------------
             Welcome to your math online quiz 
